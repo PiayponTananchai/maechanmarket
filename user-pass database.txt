@@ -1,2 +1,10 @@
+database Mysql , Mysql Woekbench
 username : piyapon
 password : 1579900943795ball
+
+
+Remote Desktop
+ip : 10.1.103.71
+
+user : crruadmin
+pass : CRRU@meachan2024
